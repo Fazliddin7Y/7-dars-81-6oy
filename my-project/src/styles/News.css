@@ -1,0 +1,17 @@
+.news {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.news h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.news-item {
+  background: #003366;
+  color: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
